@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  Me llamo Gaby</h1>
 <h3 align="center">Gabriela Pacheco - Front End Developer</h3>
 <br>
-<img align="right" src= "https://c.tenor.com/jUYZCDO14sEAAAAC/chis-sweet-home-cat.gif" alt= "gato tecleando un computador"/>
+<img align="right" src= "https://c.tenor.com/jUYZCDO14sEAAAAC/chis-sweet-home-cat.gif" alt= "gato tecleando un computador con sus patitas suaves y hermosas"/>
 
 
 
