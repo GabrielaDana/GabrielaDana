@@ -7,7 +7,7 @@
 
 - 💛 **Aprendí a programar en Laboratoria**
 
-- ⚛️ **Actualmente estoy aprendiendo React**
+- 🩵 **Actualmente estoy aprendiendo Go**
 
 - 👩🏻‍💻 &nbsp;**Proyecto en el que trabajo: [Burger Queen 🌱](https://github.com/GabrielaDana/SCL019-burger-queen)**
  
@@ -17,7 +17,7 @@
 
 - ⛸ **Patinaje freeskate**
 
-- 🐱 **Tengo dos gatitas: Florencia y Espurr**
+- 🐱 **Tengo dos gatitas: Florencia y Espurr** (2018 - 2024)🪽
 
 
 
